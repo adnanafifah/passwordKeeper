@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "155986803222",
+    "firebase_url": "https://passwordkeeper-84e19.firebaseio.com",
+    "project_id": "passwordkeeper-84e19",
+    "storage_bucket": "passwordkeeper-84e19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155986803222:android:d0e35390b2b717df",
+        "android_client_info": {
+          "package_name": "example.hp.com.passwordkeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155986803222-pa2h25fou2e8hv3s4lgmf8lu80l944e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmns62AAj9EGUZEd-ZQ3drSd035jCv4Do"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
